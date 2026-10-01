@@ -52,6 +52,7 @@ export function Footer() {
 
         <div className="mt-16 pt-8 border-t border-stone-800 text-sm text-stone-600 flex flex-col md:flex-row justify-between items-center gap-4">
           <p>&copy; {new Date().getFullYear()} Osaka Residence BJ999. All rights reserved.</p>
+          <a href="https://nakamadigital.biz.id/" className="hover:text-white transition-colors">Website by Nakama Digital</a>
         </div>
       </div>
     </footer>
